@@ -12,13 +12,6 @@ const pairs = (str) => {
     pairsArr.push(pair)
   }
   return pairsArr;
-  // write code for strings.pairs
-  // let arr = str.split('')
-  // let pairs = [];
-  // for ()
-  // while (i < 2) {
-  //   arr.push()
-  // }
 }
 
 const reverse = (str) => {
